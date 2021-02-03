@@ -1,0 +1,16 @@
+---
+title: "Partner"
+author: "Kerstin Swanson"
+date: "2/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+ 
+1. John Barmen, username JohnBarmen
+2. In the last commit, John added both his files to his repository. The ID b9a11da
+3. I had no difficulty.
+4. The only difficulty I had was cloning my partner's repository, because the provided URL in the code section did not work, I ad to copy and paste the URL from my browser.
